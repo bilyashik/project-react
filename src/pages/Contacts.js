@@ -12,11 +12,11 @@ function Contacts() {
                     </li>
                     <li className="content-list__item">
                         <h2 className="title-2">Telegram / WhatsApp</h2>
-                        <p><a href="tel:+79051234567">+996708225210</a></p>
+                        <p><a href="tel:+996708225710">+996708225210</a></p>
                     </li>
                     <li className="content-list__item">
                         <h2 className="title-2">Email</h2>
-                        <p><a href="mailto:webdev@protonmail.com">...@gmail.com</a></p>
+                        <p><a href="#!">...@gmail.com</a></p>
                     </li>
                 </ul>
 
